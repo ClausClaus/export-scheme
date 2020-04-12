@@ -14,7 +14,7 @@ You will also see any lint errors in the console.
 
 ### `npm run server`
 
-启动 nodeJs 服务，前端代理http://localhost:3001端口
+启动 nodeJs 服务，前端代理 http://localhost:3001 端口
 
 ### `npm test`
 
